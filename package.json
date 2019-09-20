@@ -5,17 +5,17 @@
     "version": "1.5.0",
     "icon": "images/icon.png",
     "galleryBanner": {
-        "color": "#23262E",
+        "color": "#1e1e1e",
         "theme": "dark"
     },
-    "publisher": "EliverLara",
+    "publisher": "amenpunk",
     "author": {
-        "name": "ELiver Lara",
-        "url": "https://github.com/EliverLara",
-        "email": "eliverlara@gmail.com"
+        "name": "amenpunk",
+        "url": "https://github.com/amenpunk",
+        "email": "ecc.code@gmail.com"
     },
     "repository": {
-        "url": "https://github.com/EliverLara/Andromeda"
+        "url": "https://github.com/amenpunk/Andromeda.git"
     },
     "engines": {
         "vscode": "^1.14.0"
